@@ -13,7 +13,7 @@
 
 🔭 3+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing).
 
-🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC, ATLC.
+🌱 Exposure on Software Engineering Process and familiar with various Life Cycle Models like SDLC, STLC
 
 👯 Proficient in Selenium Test Automation using Java programming language.
 
