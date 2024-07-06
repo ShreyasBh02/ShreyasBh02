@@ -4,7 +4,9 @@
 <hr>
 <h1 align="center">I'm <a href="https://github.com/ShreyasBh02">Shreyas Bhagat<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
+  
 <h1 align="center">About Me! 😎</h1>
+
 
 **Hi, I am a software quality assurance engineer from India, A negative thinkers who takes software testing seriously, smiles after finding root causes of problem, A geek and loves to automate boring stuffs.**
 
@@ -42,25 +44,56 @@
 <h1 align="center">Skills I have! 🧩</h1>
 <Br>
 
+<div style="line-height: 2;">
+  <img src="https://img.shields.io/badge/%20Automation%20Testing-brightgreen?style=for-the-badge" style="height: 30px;"> 
+  <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge" style="height: 30px;"> 
+  <img src="https://img.shields.io/badge/API%20Testing-red?style=for-the-badge" style="height: 30px;"> 
+  <img src="https://img.shields.io/badge/Web%20Services%20Testing-orange?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Database%20Testing-yellow?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Performance%20Testing-lightgrey?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Load%20Testing-lightblue?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Functional%20Testing-brightgreen?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Regression%20Testing-blue?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Smoke%20Testing-red?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Unit%20Testing-orange?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Integration%20Testing-yellow?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Agile%20Testing-lightgrey?style=for-the-badge" style="height: 30px;">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&color=4A4A4A" style="height: 30px;"> <!-- Metallic matte color -->
+</div>
 
-![](https://img.shields.io/badge/%20Automation%20Testing-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge) ![](https://img.shields.io/badge/API%20Testing-red?style=for-the-badge) ![](https://img.shields.io/badge/Web%20Services%20Testing-orange?style=for-the-badge)  ![](https://img.shields.io/badge/Database%20Testing-yellow?style=for-the-badge)  ![](https://img.shields.io/badge/Performance%20Testing-lightgrey?style=for-the-badge) ![](https://img.shields.io/badge/Load%20Testing-lightblue?style=for-the-badge)  ![](https://img.shields.io/badge/Functional%20Testing-brightgreen?style=for-the-badge) ![](https://img.shields.io/badge/Regression%20Testing-blue?style=for-the-badge)  ![](https://img.shields.io/badge/Smoke%20Testing-red?style=for-the-badge)  ![](https://img.shields.io/badge/Unit%20Testing-orange?style=for-the-badge)  ![](https://img.shields.io/badge/Integration%20Testing-yellow?style=for-the-badge) ![](https://img.shields.io/badge/Agile%20Testing-lightgrey?style=for-the-badge) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-
-
-
-
-  
 <Br>
 <hr>
 <Br>
 <h1 align="center">Tools I use! 🛠️</h1>
 <Br>
- 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/Appium-1A73E8?style=for-the-badge&logo=appium&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)  ![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![TestNG](https://img.shields.io/badge/TestNG-FF5733?style=for-the-badge&logo=testng&logoColor=white) ![Microsoft TFS](https://img.shields.io/badge/Microsoft%20TFS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft SSMS](https://img.shields.io/badge/Microsoft%20SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-lightblue?style=for-the-badge)  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
 
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+<div style="line-height: 2;">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Appium-1A73E8?style=for-the-badge&logo=appium&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/TestNG-FF5733?style=for-the-badge&logo=testng&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Microsoft%20TFS-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Microsoft%20SSMS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Rest%20Assured-lightblue?style=for-the-badge&logo=swagger" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" style="height: 30px;">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" style="height: 30px;">
+</div>
 
 
 
@@ -107,6 +140,18 @@
     </div>
 </div>
 
+<Br>
+<hr>
+<Br>
+<h1 align="center">Activity Graph 📈</h1>
+<Br>
+
+
+![Shreyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyasBh02&bg_color=242938&color=C2C2C2&line=2E91F7&point=00FFFF&area=true&area_color=7393B3&radius=10&hide_border=false)
+
+
+
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
   
@@ -116,7 +161,15 @@
 <h1 align="center">Thank You! 🤵 </h1>
 <Br>
 
+
+
+
+
+
+
+
 ------
   
 Credit: [ShreyasBhagat](https://github.com/ShreyasBh02)
 Last Edited on: 22/06/2021
+
