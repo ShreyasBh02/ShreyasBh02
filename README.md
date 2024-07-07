@@ -28,7 +28,7 @@
 🌱 I’m currently learning about:
     AWS, Jenkins, Backend automation and Infrastructure Design patterns and Refactoring techniques
 
-⚡  Fun fact: I play Football, Tennis! ⚽🎾
+⚡  Fun fact: I play Football! ⚽
   
 <hr>
 <Br>
